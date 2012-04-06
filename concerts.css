@@ -1,0 +1,58 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+    background-color: #FFFFF0;
+    background-image: url(noise.png);
+    color: gray;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25pt;
+    font-weight: 300;
+    height: 100%;
+}
+
+p.hanging-indent {
+    text-indent: -25px;
+    padding-left: 25px;
+}
+
+span.date, span.artist, span.venue, span.location {
+    color: black;
+    font-weight: 400;
+    font-size: 30pt;
+    text-shadow: gray 2px 2px 3px;
+}
+
+span.artist, span.venue {
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+}
+
+span.date {
+    margin-right: 0.2em;
+}
+
+span.location {
+    margin-left: 0.2em;
+}
+
+ul {
+    margin: 1em;
+    list-style: none;
+}
+
+li {
+    margin-top: 0.75em;
+}
+
+li:first {
+    margin-top: 0;
+}
