@@ -1,39 +1,39 @@
-2008-06-03: Rilo Kiley at Terminal 5 in New York, NY
-2008-10-17: Jenny Lewis at Koko in Camden, London, England
-2008-11-10: Emmy the Great at ICA in London, England
-2008-12-04: Meat Puppets at ULU in Bloomsbury, London, England
-2009-28-01: Lily Allen at Koko in Camden, London, England
-2009-02-27: Emmy the Great at ULU in Bloomsbury, London, England
-2009-03-10: The Dø at Roundhouse in Camden, London, England
-2009-03-18: Girl Talk at Scala in London, England
-2009-05-03: Bandstand Busking, featuring Kill It Kid and Fanfarlo at Northampton Square Bandstand in Islington, London, England
-2009-05-06: A Camp at KCLSU in London, England
-2009-05-11: Lily Allen at The Tabernacle in London, England
-2009-05-13: The Dø with Moriarty at KCLSU in London, England
-2009-05-19: Metric at Electric Ballroom, Camden, London, England
-2009-05-22: The Ting Tings at O2 Academy Brixton, London, England
-2009-06-10: Jenny Lewis at House of Blues, Boston, MA
-2009-09-16: The Sounds at House of Blues, Boston, MA
-2009-10-14: Anna Ternheim and Asobi Seksu at Great Scott, Boston, MA
-2009-11-02: Girl Talk at House of Blues, Boston, MA
-2009-11-19: Land of Talk at The Middle East Downstairs, Cambridge, MA
-2010-03-25: The Donnas at Paradise Rock Club, Boston, MA
-2010-04-27: Kate Nash at Great Scott, Boston, MA
-2010-09-18: Jenny and Johnny at Newbury Comics, Boston, MA
-2010-09-26: Mates of State at Paradise Rock Club, Boston, MA
-2010-09-28: Best Coast at The Middle East Downstairs, Cambridge, MA
-2010-11-03: Land of Talk at T.T. the Bear's, Cambridge, MA
-2011-02-04: Best Coast at Paradise Rock Club, Boston, MA
-2011-03-16: South by Southwest, Austin, TX
-2011-05-04: Jenny Owen Youngs at BU Central, Boston, MA
-2011-10-14: Barefoot Truth at Brighton Music Hall, Boston, MA
-2011-12-07: Oh Land at Brighton Music Hall, Boston, MA
-2012-01-28: Laura Stevenson and the Cans at The Middle East Upstairs, Cambridge, MA
-2012-02-03: Asteroids Galaxy Tour at The Middle East Downstairs, Cambridge, MA
-2012-02-04: Charles Bradley at Brighton Music Hall, Boston, MA
-2012-03-02: Sister Sparrow and the Dirty Birds at The Middle East Upstairs, Cambridge, MA
-2012-03-04: Caroline Smith & The Good Night Sleeps at The Middle East Upstairs, Cambridge, MA
-2012-03-13: South by Southwest, Austin, TX
-2012-03-24: Jenny Owen Youngs at The Middle East Upstairs, Cambridge, MA
-2012-03-28: Andrew W.K. at Paradise Rock Club, Boston, MA
-2012-04-02: First Aid Kit at Paradise Rock Club, Boston, MA
+2008-06-03 Rilo Kiley at Terminal 5 in New York, NY
+2008-10-17 Jenny Lewis at Koko in Camden, London, England
+2008-11-10 Emmy the Great at ICA in London, England
+2008-12-04 Meat Puppets at ULU in Bloomsbury, London, England
+2009-28-01 Lily Allen at Koko in Camden, London, England
+2009-02-27 Emmy the Great at ULU in Bloomsbury, London, England
+2009-03-10 The Dø at Roundhouse in Camden, London, England
+2009-03-18 Girl Talk at Scala in London, England
+2009-05-03 Bandstand Busking, featuring Kill It Kid and Fanfarlo at Northampton Square Bandstand in Islington, London, England
+2009-05-06 A Camp at KCLSU in London, England
+2009-05-11 Lily Allen at The Tabernacle in London, England
+2009-05-13 The Dø with Moriarty at KCLSU in London, England
+2009-05-19 Metric at Electric Ballroom, Camden, London, England
+2009-05-22 The Ting Tings at O2 Academy Brixton, London, England
+2009-06-10 Jenny Lewis at House of Blues, Boston, MA
+2009-09-16 The Sounds at House of Blues, Boston, MA
+2009-10-14 Anna Ternheim and Asobi Seksu at Great Scott, Boston, MA
+2009-11-02 Girl Talk at House of Blues, Boston, MA
+2009-11-19 Land of Talk at The Middle East Downstairs, Cambridge, MA
+2010-03-25 The Donnas at Paradise Rock Club, Boston, MA
+2010-04-27 Kate Nash at Great Scott, Boston, MA
+2010-09-18 Jenny and Johnny at Newbury Comics, Boston, MA
+2010-09-26 Mates of State at Paradise Rock Club, Boston, MA
+2010-09-28 Best Coast at The Middle East Downstairs, Cambridge, MA
+2010-11-03 Land of Talk at T.T. the Bear's, Cambridge, MA
+2011-02-04 Best Coast at Paradise Rock Club, Boston, MA
+2011-03-16 South by Southwest in Austin, TX
+2011-05-04 Jenny Owen Youngs at BU Central in Boston, MA
+2011-10-14 Barefoot Truth at Brighton Music Hall in Boston, MA
+2011-12-07 Oh Land at Brighton Music Hall in Boston, MA
+2012-01-28 Laura Stevenson and the Cans at The Middle East Upstairs in Cambridge, MA
+2012-02-03 Asteroids Galaxy Tour at The Middle East Downstairs in Cambridge, MA
+2012-02-04 Charles Bradley at Brighton Music Hall in Boston, MA
+2012-03-02 Sister Sparrow and the Dirty Birds at The Middle East Upstairs in Cambridge, MA
+2012-03-04 Caroline Smith & The Good Night Sleeps at The Middle East Upstairs in Cambridge, MA
+2012-03-13 South by Southwest in Austin, TX
+2012-03-24 Jenny Owen Youngs at The Middle East Upstairs in Cambridge, MA
+2012-03-28 Andrew W.K. at Paradise Rock Club in Boston, MA
+2012-04-02 First Aid Kit at Paradise Rock Club in Boston, MA
