@@ -18,5 +18,8 @@
       }
     ?>
   </div>
+  <footer>
+    <a href="https://github.com/jfinkels/concerts">view the code</a>
+  </footer>
 </body>
 </html>

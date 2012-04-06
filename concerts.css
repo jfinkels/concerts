@@ -12,11 +12,21 @@ html {
 body {
     background-color: #FFFFF0;
     background-image: url(noise.png);
+    background-attachment: fixed;
     color: gray;
     font-family: 'Oswald', sans-serif;
     font-size: 25pt;
     font-weight: 300;
     height: 100%;
+}
+
+footer {
+    position: relative;
+    right: 0;
+    font-size: 16pt;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    text-align: right;
 }
 
 p.hanging-indent {
