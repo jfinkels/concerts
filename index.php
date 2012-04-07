@@ -19,7 +19,8 @@
     ?>
   </div>
   <footer>
-    <a href="https://github.com/jfinkels/concerts">view the code</a>
+    <a href="https://github.com/jfinkels/concerts">view the code</a><br />
+    <a href="jslicenses">JavaScript license information</a>
   </footer>
 </body>
 </html>
