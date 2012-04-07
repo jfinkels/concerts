@@ -34,15 +34,16 @@ footer {
 }
 
 header {
-    position: fixed;
-    top: 0;
-    height: 100px;
     background-color: black;
-    color: #F5F5F5;
-    width: 100%;
-    text-align: center;
     box-shadow: black 0 5px 8px;
+    color: black;
+    height: 100px;
     overflow: hidden;
+    position: fixed;
+    text-align: center;
+    text-shadow: white 0 0 20px;
+    top: 0;
+    width: 100%;
 }
 
 p.hanging-indent {
