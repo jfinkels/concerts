@@ -15,15 +15,20 @@
 
                 /** Register a Jaml template for a single concert listing. */
                 Jaml.register("concert",  function(concert) {
-                    li(p({cls: "hanging-indent"},
-                         span({cls: "date"}, concert.date),
+                    li({cls: "vevent"},
+                       p({cls: "hanging-indent"},
+                         abbr({cls: "dtstart", title: concert.date},
+                              concert.date),
                          "I saw",
-                         span({cls: "artist"}, concert.artist),
+                         span({cls: "artist summary"}, concert.artist),
                          "at",
-                         span({cls: "venue"}, concert.venue),
-                         "in",
-                         span({cls: "location"}, concert.location)
-                        ));
+                         span({cls: "vcard"},
+                              span({cls: "location fn org"}, concert.venue),
+                              "in",
+                              span({cls: "adr"}, concert.location)
+                             )
+                        )
+                      );
                 });
 
                 /** The replacement function for the regular expression. */

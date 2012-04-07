@@ -20,6 +20,10 @@ body {
     height: 100%;
 }
 
+div#concerts-container {
+    margin-top: 110px;
+}
+
 footer {
     position: relative;
     right: 0;
@@ -29,28 +33,40 @@ footer {
     text-align: right;
 }
 
+header {
+    position: fixed;
+    top: 0;
+    height: 100px;
+    background-color: black;
+    color: #F5F5F5;
+    width: 100%;
+    text-align: center;
+    box-shadow: black 0 5px 8px;
+    overflow: hidden;
+}
+
 p.hanging-indent {
     text-indent: -25px;
     padding-left: 25px;
 }
 
-span.date, span.artist, span.venue, span.location {
+abbr.dtstart, span.artist, span.location, span.adr {
     color: black;
     font-weight: 400;
     font-size: 30pt;
     text-shadow: gray 2px 2px 3px;
 }
 
-span.artist, span.venue {
+span.artist, span.location {
     margin-left: 0.2em;
     margin-right: 0.2em;
 }
 
-span.date {
+abbr.dtstart {
     margin-right: 0.2em;
 }
 
-span.location {
+span.adr {
     margin-left: 0.2em;
 }
 
@@ -65,4 +81,8 @@ li {
 
 li:first {
     margin-top: 0;
+}
+
+.vevent abbr {
+    border: 0;
 }

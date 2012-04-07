@@ -10,6 +10,9 @@
   <script type="text/javascript" src="concerts.js"></script>
 </head>
 <body>
+  <header>
+    <h1>What concerts have I seen recently?</h1>
+  </header>
   <div id="concerts-container">
     <?php
       $lines = file('./concerts.txt');
