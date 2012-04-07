@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
 
 * {
     margin: 0;
@@ -34,16 +35,23 @@ footer {
 }
 
 header {
-    background-color: black;
-    box-shadow: black 0 5px 8px;
-    color: black;
+    background-color: #FFFFF0;
+    background-image: url(noise.png);
+    background-attachment: fixed;
+    border-bottom: thick dashed #ADD8E6;
+    box-shadow: #FFFFF0 0 10px 25px;
     height: 100px;
     overflow: hidden;
     position: fixed;
     text-align: center;
-    text-shadow: white 0 0 20px;
     top: 0;
     width: 100%;
+}
+
+header h1 {
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45pt;
 }
 
 p.hanging-indent {
